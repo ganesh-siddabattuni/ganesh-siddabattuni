@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=2ED573&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddabattuni+Sai+Ganesh;Full+Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast; Building+scalable+solutions+with+Java,+Spring+Boot,+MERN+Stack;Always+learning,+always+coding!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=2ED573&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddabattuni+Sai+Ganesh;Full+Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+scalable+solutions+with+Java,+Spring+Boot,+MERN+Stack;Always+learning,+always+coding!" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,9 +9,9 @@
 
 I'm **Siddabattuni Sai Ganesh**, a passionate Full Stack Developer specializing in building scalable web applications and robust APIs. From crafting intuitive UIs to architecting resilient backends and cloud deployments, I love turning ideas into production-ready products.
 
-- 🚀 Currently working at **Cognizant Technology Solutions** as a Java Full Stack Engineer.
-- 🌱 Always exploring the latest in **cloud, DevOps, and full stack tech**.
-- 🛠️ Proactive team player, fast learner, and enthusiastic about building & learning new things.
+- 🚀 Currently working at **Cognizant Technology Solutions** as a Java Full Stack Engineer
+- 🌱 Exploring **Cloud, DevOps & Full Stack technologies**
+- 🛠️ Proactive team player, fast learner, and always excited to build & learn something new
 
 ---
 
@@ -58,14 +58,16 @@ I'm **Siddabattuni Sai Ganesh**, a passionate Full Stack Developer specializing 
 
 ### 🌟 Featured Projects
 
-- [**FoodNow**](https://github.com/ganesh-siddabattuni/FoodNow):  
-  Java/Spring Boot & Angular food delivery platform with multi-role dashboards, JWT authentication, and cloud deployment.
-- [**ShopSphere**](https://github.com/ganesh-siddabattuni/fullstack-ecommerce):  
-  Microservices e-commerce backend using Spring Boot, RabbitMQ, and Docker for scalable architecture.
-- [**InsightStream**](#):  
-  Real-time analytics dashboard using React & WebSockets, with a Spring Boot backend for live data streaming from MongoDB.
+- **[FoodNow](https://github.com/ganesh-siddabattuni/FoodNow)**  
+  Full-stack food delivery app using **Spring Boot + Angular** with multi-role dashboards, JWT auth & deployment.
 
-_Explore more projects in my pinned repos!_
+- **[ShopSphere](https://github.com/ganesh-siddabattuni/fullstack-ecommerce)**  
+  Microservices-based e-commerce backend with **Spring Boot, RabbitMQ, Docker**, and centralized logging.
+
+- **InsightStream** *(Private / In progress)*  
+  Real-time analytics dashboard using **React + WebSockets + Spring Boot + MongoDB**.
+
+> _Explore more projects in my pinned repos!_
 
 ---
 
@@ -80,15 +82,15 @@ _Explore more projects in my pinned repos!_
 
 ### 📜 Certifications
 
-- MERN Stack Developer (Ethnus)
-- Deep Learning Specialization (Coursera)
+- MERN Stack Developer — Ethnus
+- Deep Learning Specialization — Coursera
 - IBM Data Science Professional Certificate
 
 ---
 
 ### 🎓 Education
 
-- **Integrated M.Tech, Computer Science Engineering**  
+- **Integrated M.Tech in Computer Science & Engineering**  
   Vellore Institute of Technology, Vellore (2020–2025)
 
 ---
