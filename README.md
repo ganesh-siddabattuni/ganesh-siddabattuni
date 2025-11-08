@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=2ED573&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddabattuni+Sai+Ganesh;Full+Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+scalable+solutions+with+Java,+Spring+Boot,+MERN+Stack;Always+learning,+always+coding!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=2ED573&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddabattuni+Sai+Ganesh;Full+Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast; Building+scalable+solutions+with+Java,+Spring+Boot,+MERN+Stack;Always+learning,+always+coding!+" alt="Typing SVG" />
 </p>
 
 ---
