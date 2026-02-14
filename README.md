@@ -50,27 +50,6 @@ I'm **Siddabattuni Sai Ganesh**, a passionate Full Stack Developer specializing 
 
 ---
 
-### 🌟 Featured Projects
-
-- **[FoodNow](https://github.com/ganesh-siddabattuni/FoodNow)** Full-stack food delivery app using **Spring Boot + Angular** with multi-role dashboards, JWT authentication, and automated deployment.
-
-- **[ShopSphere](https://github.com/ganesh-siddabattuni/fullstack-ecommerce)** Microservices-based e-commerce backend built with **Spring Boot, RabbitMQ, and Docker**, featuring centralized logging.
-
-- **InsightStream** *(Private / In progress)* Real-time analytics dashboard using **React + WebSockets + Spring Boot + MongoDB**.
-
-> _Explore more projects in my pinned repositories!_
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ganesh-siddabattuni&show_icons=true&theme=react&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-siddabattuni&layout=compact&theme=react" />
-</p>
-
----
-
 ### 📜 Certifications
 
 - **MERN Stack Developer** — Ethnus
